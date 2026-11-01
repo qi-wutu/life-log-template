@@ -1,0 +1,20 @@
+# 大文件不进版本库
+*.zip
+*.7z
+*.rar
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.pdf
+*.dmg
+*.exe
+*.iso
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 如果你要放个人资料，把下面这行取消注释
+# private/
