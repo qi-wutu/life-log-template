@@ -12,6 +12,7 @@
 | 我是个什么样的人 | [`profile/人格.md`](profile/人格.md) |
 | 我现在什么处境 | [`profile/处境.md`](profile/处境.md) |
 | 有哪些悬着没决定的事 | [`profile/方向.md`](profile/方向.md) |
+| 现在手上有哪些任务、到哪一步 | [`profile/任务.md`](profile/任务.md) |
 | 某一天发生了什么 | `daily/YYYY-MM-DD.md` |
 | 给过的建议，我做了没 | [`advice/台账.md`](advice/台账.md) |
 | 说过的打算，兑现了没 | [`memory/预测.md`](memory/预测.md) |
